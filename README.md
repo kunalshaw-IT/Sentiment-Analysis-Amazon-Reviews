@@ -2,16 +2,10 @@
 
 ## Table of Content
   * [Overview](#overview)
-  * [Motivation](#motivation)
   * [Objectives of project](#objectives-of-project)
   * [Technologies Used](#technologies-used)
-  * [Author](#author)
-  * [Credits](#credits)
 ## Overview
 Everyday we come across various products in our lives, on the digital medium we swipe across hundreds of product choices under one category. It will be tedious for the customer to make selection. Here comes 'reviews' where customers who have already got that product leave a rating after using them and brief their experience by giving reviews. As we know ratings can be easily sorted and judged whether a product is good or bad. But when it comes to sentence reviews we need to read through every line to make sure the review conveys a positive or negative sense. In the era of artificial intelligence, things like that have got easy with the Natural Langauge Processing(NLP) technology.
-
-## Motivation
-I have good experience working with numerical and it is also easy to work and manipulate them. But this time I decided to analyze a text data to find out the sentiment expressed in product reviews of Amazon. It was surely a breathtaking experience.
 
 ## Objectives of project
 1. Reviews Preprocessing and Cleaning
@@ -27,10 +21,6 @@ I have good experience working with numerical and it is also easy to work and ma
 [<img target="_blank" src="https://i.redd.it/c6h7rok9c2v31.jpg" width=270>](https://pandas.pydata.org/) [<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/1280px-NumPy_logo.svg.png" width=200>](https://numpy.org/)
 [<img target="_blank" src="https://miro.medium.com/max/418/1*WssnLJ__IAUURwqms-I8LA.png" width=270>](https://towardsdatascience.com/natural-language-processing-nlp-for-electronic-health-record-ehr-part-i-4cb1d4c2f24b)
 
-## Author
-[![Ben Roshan](https://avatars3.githubusercontent.com/u/62639456?s=460&u=2f7454bee8febbbeb84a2d2111523815a1f809cb&v=4)](https://www.linkedin.com/in/benroshan100/) |
--|
-[Ben Roshan](https://www.linkedin.com/in/benroshan100/) |)
 
 ## dataset
 kaggle dataset [Dataset](https://www.kaggle.com/eswarchandt/amazon-music-reviews).
